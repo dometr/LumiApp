@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Advertisement_for_the_music_score_of_La_Bohème,_1895.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
